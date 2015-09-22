@@ -16,5 +16,12 @@
 
 #orange-tree-template { display: none; }
 
+#orange{
+  background: url('../images/orange.gif');
+  background-repeat: no-repeat;
+  height:50px;
+  width:50px;
+  border: solid black 2px;
+}
 
 /* Add more styles here*/
